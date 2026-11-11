@@ -13,4 +13,3 @@ What I hope to get from this course: Better foundation of coding in R and specif
 - 📫 How to reach me: des221@lehigh.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love all kinds of music!
--->
