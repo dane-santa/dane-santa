@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**dane-santa/dane-santa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cytometry In R Info
 
-Here are some ideas to get you started:
+Location: Bethlehem, Pennsylvania, USA
+My Favorite Fluorophore: Texas Red
+Previous Coding Experience: Developing an R pipeline to quantify and catalogue unmixing errors in large spectral flow cytometry panels, also implementing AutoSpectral package in workflow
+What I hope to get from this course: Better foundation of coding in R and specifically how to develop scripts for use with flow cytometry work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a Shiny app
+- 🌱 I’m currently learning R, Cytometry in R course
+- 💬 Ask me about structural effects of oxidized lipids in membrane model systems
+- 📫 How to reach me: des221@lehigh.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love all kinds of music!
 -->
